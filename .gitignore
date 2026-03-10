@@ -1,0 +1,32 @@
+# Quartus generated files
+*.rpt
+*.smsg
+*.summary
+*.done
+*.jdi
+*.pin
+*.pof
+*.rbf
+*.sof
+*.sopcinfo
+*.qws
+*.bak
+*.orig
+db/
+incremental_db/
+output_files/
+simulation/
+greybox_tmp/
+hps_isw_handoff/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Large MIF files (generate with script)
+image_data.mif
