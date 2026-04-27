@@ -7,7 +7,7 @@
 ![Status](https://img.shields.io/badge/Status-Working-brightgreen)
 
 ---
-
+1
 ## 📺 Project Demo
 
 A fully working real-time image processing system implemented entirely in **FPGA hardware logic** (no CPU, no Linux, no ARM processor).
